@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.sp-item {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.sp-pic {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.sp-item-details {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
